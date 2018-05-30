@@ -1,0 +1,14 @@
+Source: huayra-backgrounds-huayra4
+Section: graphics
+Priority: extra
+Maintainer: Ignacio Losiggio <iglosiggio@dc.uba.ar>
+Build-Depends: debhelper (>= 9.0.0)
+Standards-Version: 3.9.6
+Homepage: https://github.com/HuayraLinux/huayra-backgrounds-huayra4
+Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-huayra4.git
+
+Package: huayra-backgrounds-huayra4
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de escritorio de Huayra 4.
+ Pack de fondos de escritorio oficial de Huayra 4.0.
