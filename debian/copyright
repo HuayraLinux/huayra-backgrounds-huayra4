@@ -5,13 +5,12 @@ Source: <http://huayra.conectarigualdad.gob.ar/>
 Files: huayra4-simple.png
        huayra4-cubos.png
        huayra4-vaca.png
-Copyright: 2018 Claudio "malefico" Andaur <malefico3d@gmail.com>
-           2018 Carolina "chinchi" Hortal <carohortal@gmail.com>
+Copyright: 2018 Claudio "Malefico" Andaur <malefico3d@gmail.com>
+           2018 Carolina "Chinchi" Hortal <carohortal@gmail.com>
 License: CC-BY-SA-3-Argentina
 
 Files: huayra4-tecno-polar-crux.png
 Copyright: 2018 Diego Accorinti <diegoacco@gmail.com>
-           2018 Carolina "chinchi" Hortal
 License: CC-BY-SA-3-Argentina
 
 Files: debian/*
